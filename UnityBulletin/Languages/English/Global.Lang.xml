@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- UNITY BULLETIN LANGUAGE LOCALIZATION FILE -->
+<!-- English (US-American) -->
+<!-- Global.Lang.xml -->
+
+<Localization>
+  <String Name="welcome">Welcome to our bulletin board</String>
+</Localization>
